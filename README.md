@@ -25,8 +25,8 @@ Please note that web scraping might be against the terms of service of some webs
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/linkedin-job-scraper.git
-cd linkedin-job-scraper
+git clone https://github.com/nadeem-cpp/job-finder.git
+cd linkedin-job-finder
 ```
 
 2. Install the required dependencies:
@@ -40,8 +40,8 @@ pip install -r requirements.txt
 4. Set up environment variables for your LinkedIn credentials:
 
 ```bash
-export LINKEDIN_EMAIL="your_email@example.com"
-export LINKEDIN_PASSWORD="your_password"
+export EMAIL="your_email@example.com"
+export PASSWORD="your_password"
 ```
 
 5. Modify the search parameters in the `main.py` file:
